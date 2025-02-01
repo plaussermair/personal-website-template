@@ -95,7 +95,7 @@ export default function Home() {
                   height={20}
                   className="ml-1 translate-y-[3px]"
                 />
-              </span> I design enterprise-scale, cloud-native systems to modernize how Americans interact with the government.
+              </span> I design enterprise-scale, cloud-native systems to modernize how Americans interact with the IRS.
             </p>
           </div>
         </div>
