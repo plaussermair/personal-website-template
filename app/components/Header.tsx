@@ -22,7 +22,7 @@ export default function Header() {
           <NavLink href="#experience" number="03" text="Experience" />
           <NavLink href="#education" number="04" text="Education" />
           <a 
-            href="/Philip_Laussermair_Resume.pdf" 
+            href="/Sample Resume.pdf" 
             target="_blank"
             rel="noopener noreferrer"
             className="border border-[#4A90E2] text-[#4A90E2] px-4 py-2 rounded hover:bg-[#4A90E2]/10 transition-colors"
@@ -46,7 +46,7 @@ export default function Header() {
             <MobileNavLink href="#experience" number="03" text="Experience" onClick={closeMenu} />
             <MobileNavLink href="#education" number="04" text="Education" onClick={closeMenu} />
             <a 
-              href="/Philip_Laussermair_Resume.pdf" 
+              href="/Sample Resume.pdf" 
               target="_blank"
               rel="noopener noreferrer"
               className="border border-[#4A90E2] text-[#4A90E2] px-4 py-2 rounded hover:bg-[#4A90E2]/10 transition-colors text-center"
